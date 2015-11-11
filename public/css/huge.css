@@ -19,6 +19,7 @@ body {
 }
 .title-img img {
   width: 100%;
+  max-width: 270px;
 }
 .title {
   color: #2E2E2E;
@@ -35,6 +36,11 @@ body {
 }
 nav {
   margin-top: 21px;
+}
+nav ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 .nav-link {
   width: 250px;

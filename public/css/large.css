@@ -1,0 +1,82 @@
+body {
+  background-color: #E9E9E9;
+  margin: 0;
+}
+.left {
+  width: 100%;
+  height:100px;
+}
+.title-img {
+  margin-left: 10px;
+}
+.title-img img {
+  width: 70px;
+  float: left;
+}
+.title {
+  color: #2E2E2E;
+  text-align: center;
+}
+.title h1 {
+  font-weight: normal;
+}
+.title-info {
+  text-align: left;
+  padding: 0 35px;
+  font-size: 19px;
+}
+nav ul{
+  float: right;
+  list-style-type: none;
+}
+nav li{
+  margin: 0 10px;
+  text-align: center;
+  float: left;
+}
+nav a {
+  color: #890101;
+  text-decoration: none;
+}
+.font-type-1 {
+  font-size: 13px;
+  color: #890101;
+}
+.font-type-2 {
+  color: #890101;
+  font-weight: bold;
+}
+.person-image-title {
+  text-align: center;
+  margin-top: 32px;
+  font-size: 26px;
+  padding: 0 37px;
+  margin-bottom: 24px;
+}
+hr {
+  width: 27%;
+  display: inline-block;
+}
+.left-hr {
+  float: left;
+}
+.right-hr {
+  float: right;
+}
+.person-image ul {
+  list-style-type: none;
+}
+.person-image li {
+  text-align: center;
+  float: left;
+  margin: 0 14px;
+  margin-bottom: 20px;
+  width: 28%;
+}
+.last-li {
+  margin-right: 0px;
+}
+.person-image img {
+  width: 100%;
+  border-radius: 10px;
+}
