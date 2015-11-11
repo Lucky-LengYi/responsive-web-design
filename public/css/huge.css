@@ -21,6 +21,9 @@ body {
   width: 100%;
   max-width: 270px;
 }
+.title-text{
+  display: none;
+}
 .title {
   color: #2E2E2E;
   text-align: center;
