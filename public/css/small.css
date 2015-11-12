@@ -1,6 +1,8 @@
 body {
+  font-family: "Microsoft YaHei", Arial, Tahoma;
   background-color: #E9E9E9;
   margin: 0;
+  min-width: 420px;
 }
 .left {
   width: 100%;
